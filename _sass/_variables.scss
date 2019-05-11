@@ -1,27 +1,27 @@
-
-//
-// VARIABLES
-//
-
-// Colors
-$blue: #4183C4;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+$default-color: #555;
+$default-shade: #353535;
+$default-tint: #aaa;
+$grey-1: #979797;
+$grey-2: #e5e5e5;
+$grey-3: #f9f9f9;
 $white: #fff;
+$blue: #4a9ae1;
+$shadow-color: rgba(0, 0, 0, .2);
+$code-color: #bf616a;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$serif-primary: 'Playfair Display', 'Times New Roman', Times, serif;
+$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
+$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$monospaced: Menlo, Monaco, monospace;
 
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
-  }
+@mixin box-sizing($type: border-box) {
+    -webkit-box-sizing: $type;
+    -moz-box-sizing: $type;
+    box-sizing: $type;
+}
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    transition: $args;
 }

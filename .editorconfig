@@ -9,3 +9,9 @@ trim_trailing_whitespace = true
 
 [*.md]
 max_line_length = off
+
+[*.js]
+indent_size = 4
+
+[*.yml]
+indent_size = 2

@@ -1,0 +1,18 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700&amp;subset=cyrillic">
+
+    {% feed_meta %}
+
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
+    {% if site.yandex_metrika and jekyll.environment == 'production' %}
+    {% include metrika.html %}
+    {% endif %}
+</head>
