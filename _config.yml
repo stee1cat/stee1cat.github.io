@@ -14,6 +14,9 @@ disqus:
 google_analytics: UA-138989703-1
 yandex_metrika: 53423350
 
+webmaster_verifications:
+  yandex: 643ebd491d31e482
+
 url: https://khatuntsev.dev
 permalink: /:year-:month-:day/:title/
 baseurl: ""
