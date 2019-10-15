@@ -45,6 +45,7 @@ Other Services:
     <tbody>
         <tr>
             <td markdown="span">
+                ![EPAM Systems](/images/logotypes/epam.png)
                 **[EPAM Systems](https://epam.com)**<br>
                 Jun 2019 – Present
             </td>
@@ -54,6 +55,7 @@ Other Services:
         </tr>
         <tr>
             <td markdown="span">
+                ![IBS](/images/logotypes/ibs.png)
                 **[IBS](https://ibs.ru/)**<br>
                 Dec 2018 – Jun 2019
             </td>
@@ -77,6 +79,7 @@ Other Services:
         </tr>
         <tr>
             <td markdown="span">
+                ![Teleport](/images/logotypes/teleport.png)
                 **[Teleport](https://teleport.media)**<br>
                 Mar 2017 – Nov 2018
             </td>
@@ -99,6 +102,7 @@ Other Services:
         </tr>
         <tr>
             <td markdown="span">
+                ![Miro](/images/logotypes/miro.png)
                 **[Miro (ex. RealtimeBoard)](https://miro.com)**<br>
                 Oct 2015 – Mar 2016
             </td>
@@ -116,6 +120,7 @@ Other Services:
         </tr>
         <tr>
             <td markdown="span">
+                ![Kamchatka, LLC](/images/logotypes/kamchatka.png)
                 **[Kamchatka, LLC](https://kamchatka-perm.ru)**<br>
                 Apr 2016 – Mar 2017<br>
                 Feb 2013 – Oct 2015
