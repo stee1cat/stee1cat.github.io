@@ -1,41 +1,42 @@
 ---
 layout: default
-title: Resume
+title: Резюме
 permalink: /resume.html
 ---
 
-# Resume
+# Резюме
 
-## How to find me
+Как правило в проектах являюсь ключевым разработчиком в небольших командах. Практический опыт не заканчивается чистым фронтом.
+
+На данный момент в приоритете вакансии с удалённой работой.
+
+## Контакты
 
 * Email: [e.steelcat@gmail.com](mailto:e.steelcat@gmail.com)
 * Personal Blog: [khatuntsev.dev](https://khatuntsev.dev)
-* Github: [stee1cat](https://www.github.com/stee1cat)
+* GitHub: [stee1cat](https://www.github.com/stee1cat)
 * LinkedIn: [khatuntsev](https://linkedin.com/in/khatuntsev)
 
-## Experience
+## Навыки
 
-Hands-on experience with:
-
-Programming Languages
+Языки программирования:
 
 - JavaScript
 - TypeScript
 - PHP
-- Java
 
-Databases and Data Tools
+Базы данных:
 
 - Memcached
 - PostgreSQL
 - MySQL
 
-Other Services:
+Прочее:
 
 - Docker
 - Ethereum
 
-## My Work History
+## Опыт работы
 
 <table class="work-history">
     <colgroup>
@@ -45,88 +46,158 @@ Other Services:
     <tbody>
         <tr>
             <td markdown="span">
+                ![Иннотех, Группа компаний](/images/logotypes/inno.png)
+                **[Иннотех, Группа компаний](https://inno.tech)**<br>
+                Март 2022 — по настоящее время
+            </td>
+            <td>
+                <h3>Ведущий разработчик</h3>
+
+                <p>Роль ключевого разработчика в стриме Сбережений. Поддержка процессов в операциях со вкладами в каналах интернет-банка и офисах продаж.</p>
+
+                <ul>
+                    <li>Проводил тех. собеседований при наличии потребности FE ресурса в стриме.</li>
+                    <li>Онбординг сотрудников.</li>
+                    <li>Участвовал в проработке, планировании и оценке задач.</li>
+                    <li>Участвовал в проектировании и разработке архитектуры приложений.</li>
+                    <li>Проводил ревью кода.</li>
+                    <li>Сопровождал релизы фронта.</li>
+                </ul>
+
+                <p>Выполненные задачи:</p>
+
+                <ul>
+                    <li>Перевод вкладов на микрофронтенд архитектуру в интернет-банке.</li>
+                    <li>Реализация операций по вкладам с нуля для точек продаж.</li>
+                </ul>
+
+                <p>Стек: React, TypeScript</p>
+            </td>
+        </tr>
+        <tr>
+            <td markdown="span">
                 ![EPAM Systems](/images/logotypes/epam.png)
                 **[EPAM Systems](https://epam.com)**<br>
-                Jun 2019 – Present
+                Июнь 2019 — Март 2022
             </td>
-            <td markdown="span">
-                **Senior Software Engineer**
+            <td>
+                <h3>Senior Software Engineer</h3>
+
+                <h4>ВТБ (февраль, 2021 - март, 2022)</h4>
+
+                <p>Занимался поддержкой модуля для подбора инвестиционных продуктов в личном кабинете розничного клиента. Так же реализовал встройку этого модуля во внутренную систему с использованием микрофронта. В дальнейшем оказывал техническую консультацию других команд по этому вопросу.</p>
+
+                <p>Стек: React, TypeScript</p>
+
+                <h4>Schneider Electric (ноябрь, 2020 - январь, 2021)</h4>
+
+                <p>Реализация виджетов для системы управления контентом.</p>
+
+                <p>Стек: JavaScript, CSS, Web Components</p>
+
+                <h4>EPAM Systems, внутренний проект (апрель, 2020 - сентябрь, 2020)</h4>
+
+                <p>Работал над двумя проектами:</p>
+
+                <ol>
+                    <li>Система управленим географическими локациями. Это SPA, начал разработку с нуля на React.</li>
+                    <li>Поддерживал внутреннию систему для управления местами в офисах. Начал миграцию с angularjs на React.</li>
+                </ol>
+
+                <h4>МВидео (июль, 2019 - март, 2020)</h4>
+
+                <p>Успел поработать на двумя внутренними проектами:</p>
+
+                <ol>
+                    <li>Поддерживал административную панель для управления каталогом товаров на мобильных терминалах у консультантов. Классическое SPA на Angluar.</li>
+                    <li>Начал доработку внутреннего чата для коммуникации между персоналом. Был форкнут Rocket.Chat. Это приложение основанное на Meteor. Далее реализовывались необходимые фичи под нужды клиента.</li>
+                </ol>
             </td>
         </tr>
         <tr>
             <td markdown="span">
                 ![IBS](/images/logotypes/ibs.png)
                 **[IBS](https://ibs.ru/)**<br>
-                Dec 2018 – Jun 2019
+                Декабрь 2018 — Июнь 2019
             </td>
-            <td markdown="span">
-                **Senior Software Engineer**<br>
-                
-                Implemented dashboard for data analytics.
-                Functionality and features of dashboard: many different data visualizations (charts and tables),
-                global filters, export reports to XLS or PDF.<br>
-                <br>
-                Frontend:<br>
-                - SPA based on vue.js and vuex<br>
-                <br>
-                Backend:<br>
-                - Java, Spring Boot with Spring Security and Hibernate<br>
-                - PostgreSQL<br>
-                <br>
-                Acted as a mentor to junior developer to help him reach his potential,
-                expand his capabilities, and increase value to the company.
+            <td>
+                <h3>Senior Software Engineer</h3>
+
+                <p>Участие в реализации проекта аналитических панелей для органа исполнительной власти. Функциональность панелей: представление данных в табличном виде и в виде графиков, фильтры по параметрам, возможность сформировать отчёт в формате XLS или PDF. Технологический стек представляет собой SPA с vue.js, vuex на фронте, на беке Spring Boot с Spring Security, Hibernate, PostgreSQL.</p>
             </td>
         </tr>
         <tr>
             <td markdown="span">
                 ![Teleport](/images/logotypes/teleport.png)
                 **[Teleport](https://teleport.media)**<br>
-                Mar 2017 – Nov 2018
+                Март 2017 — Декабрь 2018
             </td>
-            <td markdown="span">
-                **JavaScript Developer**<br>
-                
-                Teleport Media P2P CDN is a customized solution to deliver media traffic for video streaming business.<br>
-                
-                {::nomarkdown}
-                <ul>
-                    <li>Developed a personal cabinet for customers using React, Flow.</li>
-                    <li>Developed plugins for integration a core P2P engine using WebRTC transport with HTML5-based video players.</li>
-                    <li>Wrote a technical documentation.</li>
-                </ul>
-                {:/}
-              
-                Dev team: 4+ members<br>
-                Technologies: nodejs, JavaScript, TypeScript, React, Redux.<br>
+            <td>
+                <h3>JavaScript Developer</h3>
+
+                <p>Создание https://teleport.plus/ и API (koa, babel) к нему. Вёрстка писем с помощью mjml.</p>
+
+                <p>Поддержка личного кабинета пользователя и написанного на react с использованием redux в качестве стора и flow для статической типизации. Бек на TypeScript, БД: Clickhouse, MySQL.</p>
+
+                <p>Написание и поддержка плагинов для интеграции ядра ответственного за P2P-обмен через WebRTC с различными HTML5-based плеерами.</p>
+
+                <p>Написание технической документации и её сборки с помощью daux и кастомизированным шаблоном.</p>
+
+                <p>Создание промо-приложения под iOS с использованием Ionic Framework.</p>
+
+                <p>Написание >3 небольших приложений на vue.js (калькулятор расчёта тарифа, страница с интерактивной демкой и т. п.).</p>
+
+                <p>Был потрачен месяц на изучение экосистемы Ethereum и написание смарт-контрактов на языке Solidity. Так же принимал участие в казанском хакатоне в августе 2017 года.</p>
+
+                <p>Прочее: использование docker и GitLab CI, написание тестов.</p>
             </td>
         </tr>
         <tr>
             <td markdown="span">
                 ![Miro](/images/logotypes/miro.png)
                 **[Miro (ex. RealtimeBoard)](https://miro.com)**<br>
-                Oct 2015 – Mar 2016
+                Октябрь 2015 — Март 2016
             </td>
-            <td markdown="span">
-                **JavaScript Developer**<br>
-                
-                An infinitely zoomable canvas and web whiteboard for real-time or asynchronous teamwork.<br>
-                <br>
-                Developed the SPA part of the web application. Supported and refactoring an existing code base.
-                Completed tasks from the marketing department for onboarding new users.
-                Implemented changelog system to notify users about new features in the application.<br>
-                <br>
-                Technologies: AngularJS, TypeScript, less, PHP, Yii2.<br>
+            <td>
+                <h3>JavaScript Developer</h3>
+
+                <p>Разработка клиентской части web-приложения. Поддержка и рефакторинг существующего фронтенда. В основном задачи были от отдела маркетинга с онбордингом новых пользователей.</p>
+
+                <p>Используемый стек: AngularJS, TypeScript, less.</p>
+
+                <p>Реализована система changelog'а для уведомления пользователей о новых возможностях в продукте. Для размещения изменений проекта создана панель управления на Yii2.</p>
+
+                <p>Работа в большой команде с использованием gitflow, код ревью и взаимодействием с QA.</p>
             </td>
         </tr>
         <tr>
             <td markdown="span">
                 ![Kamchatka, LLC](/images/logotypes/kamchatka.png)
                 **[Kamchatka, LLC](https://kamchatka-perm.ru)**<br>
-                Apr 2016 – Mar 2017<br>
-                Feb 2013 – Oct 2015
+                Апрель 2016 — Март 2017<br>
+                Февраль 2013 — Октябрь 2015
             </td>
-            <td markdown="span">
-                **Full Stack Developer**
+            <td>
+                <h3>Full Stack Developer</h3>
+
+                <p>Доработка и сопровождение клиентских сайтов, разработка сайтов и внутренних проектов компании.</p>
+
+                <p>Проекты в которых я принимал полное участие:</p>
+
+                <ul>
+                    <li>
+                        <p><a href="https://kamchatka-perm.ru/" target="_blank">kamchatka-perm.ru</a> - Сайт компании. Перевод сайта на ZF2. Из особенностей backend'а: панель управления контентом с возможностью выбора макета для страницы и блоков (предопределённые разные типы, их содержимое естественно можно редактировать).</p>
+                        <p>Frondend: JS ES6 с траспайлингом в ES5 с помощью Babel, less.</p>
+                    </li>
+                    <li><a href="https://tklimat.com/" target="_blank">tklimat.com</a> - Сайт компании Технологии климата (Bitrix). Перенос контента со старого сайта, вёрстка, кодирование.</li>
+                    <li><a href="http://lazar.ru/" target="_blank">lazar.ru</a> - Сайт компании ОВК-Снаб (OpenCart). Перенос контента со старого сайта, вёрстка, кодирование.</li>
+                    <li>Внутренняя система для парсинга SERP по заданным ключевым словам и составление комплексного отчёта по результатам продвижения. Написана на Yii первой версии.</li>
+                    <li><a href="http://medic-laboratory.ru/" target="_blank">medic-laboratory.ru</a> - сайт лаборатории Философии красоты и здоровья. Bitrix, вёрстка, кодирование.</li>
+                    <li><a href="http://inova-group.ru/" target="_blank">inova-group.ru</a> - сайт компании InovaGroup. Bitrix, вёрстка, кодирование. Из особенностей: кастомный импорт товаров из XLS, переписан фильтр каталога (были проблемы с производительностью), личный кабинет, импорт/экспорт корзины.</li>
+                    <li><a href="http://chevrolet.autoprestige.ru/" target="_blank">chevrolet.autoprestige.ru</a> - сайт компании Автопрестиж. SilverStripe, вёрстка, кодирование, поддержка.</li>
+                </ul>
+
+                <p>Плюс поддержка множества других клиентских сайтов. Написание парсеров на JS для nodejs.</p>
             </td>
         </tr>
     </tbody>
